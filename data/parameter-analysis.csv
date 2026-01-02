@@ -1,0 +1,10 @@
+Parameter,Published_Value,Optimized_Value,Change,Absolute_Change_m,Effect_Description,Platform_Consideration,Desktop_Value,Desktop_Mobile_Difference
+lat_0,4.669448,4.669382,-0.000066°,-7.3,Southward shift,Compensates for systematic northward bias in mobile GPS,4.669448,0°
+lon_0,-1.0,-1.0,0°,0,No change,Central meridian maintained,-1.0,0°
+k_0,0.99975,0.99975,0,0,No change,Scale factor preserved,0.99975,0
+x_0,274291.3,274286.8,-4.5m,-4.5,Westward shift,Addresses eastward bias observed in web mapping,900000.0,625708.7m
+y_0,0.0,0.0,0m,0,No change,False northing unchanged,0.0,0m
+ellps,clrk80,clrk80,N/A,N/A,No change,Clarke 1880 ellipsoid maintained,clrk80,N/A
+units,m,m,N/A,N/A,No change,Meters maintained (internal conversion from feet),m,N/A
+proj,tmerc,tmerc,N/A,N/A,No change,Transverse Mercator projection,tmerc,N/A
+no_defs,TRUE,TRUE,N/A,N/A,No change,No default definitions,TRUE,N/A

@@ -1,0 +1,7 @@
+Region,Zone,Points,Published_RMS_m,Optimized_RMS_m,Improvement_Percent,Published_Mean_Lat_Shift_m,Published_Mean_Lon_Shift_m,Optimized_Mean_Lat_Shift_m,Optimized_Mean_Lon_Shift_m,Recommended_Parameters,Validation_Status
+Western,Coastal,65,1.3,10.6,-715.4,2.3,-0.03,9.5,-4.5,Published,Complete
+Greater_Accra,Transition,77,6.9,2.1,69.6,-6.5,2.2,1.4,-2.1,Optimized,Complete
+Ashanti,Inland,46,16.9,9.0,46.7,-16.7,0.4,-4.7,-4.0,Optimized,Complete
+Brong_Ahafo,Inland,50,28.1,19.2,31.7,-25.6,-0.7,-18.9,-5.1,Optimized,Complete
+Upper_East,Far_North,21,61.7,54.2,12.2,-61.2,1.8,-53.5,-2.9,Optimized,Complete
+Total,All,259,15.8,10.2,35.4,-21.3,0.7,-13.2,-3.7,Mixed,Complete

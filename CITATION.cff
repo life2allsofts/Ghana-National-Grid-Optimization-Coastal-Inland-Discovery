@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Tetteh-Apotey"
+    given-names: "Isaac"
+    orcid: "https://orcid.org/0009-0008-6360-5847"
+title: "Bridging the Desktop-Mobile Divide: Regional Optimization of Ghana’s National Grid for Mobile and Web Applications"
+version: 1.0
+date-released: 2025-12-26
+url: "https://github.com/life2allsofts/Ghana-National-Grid-Optimization-Coastal-Inland-Discovery"
+repository-code: "https://github.com/life2allsofts/ita_gh_surveyor_gps"
+license: MIT

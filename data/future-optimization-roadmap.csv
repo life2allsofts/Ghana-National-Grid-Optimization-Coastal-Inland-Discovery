@@ -1,0 +1,7 @@
+Phase,Region,Control_Points_Needed,Current_RMS_m,Target_RMS_m,Predicted_Improvement_Percent,Research_Priority,Rationale
+1,Greater_Accra,77,6.9,2.1,70%,✅ Completed,Proof-of-concept achieved
+2,Western,64,1.3,~1.0,~23%,High,Coastal mystery investigation
+3,Ashanti,52,16.9,~5.0,~70%,High,Most populous region
+4,Brong_Ahafo,45,28.1,~8.4,~70%,Medium,Test northward gradient
+5,Upper_East,21,61.7,~18.5,~70%,Medium,Extreme north validation
+6,Nationwide_Framework,259,Varies,~5.0 avg,~70% avg,Long-term,Unified regional system
