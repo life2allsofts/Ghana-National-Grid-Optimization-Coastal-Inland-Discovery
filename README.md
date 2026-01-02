@@ -1,5 +1,7 @@
 # Ghana National Grid Optimization Research: Coastal-Inland Divide and Desktop-Mobile Implementation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18133088.svg)](https://doi.org/10.5281/zenodo.18133088)
+
 ## Research Overview
 This repository contains the research materials for **"Bridging the Desktop-Mobile Divide: Regional Optimization of Ghana's National Grid for Mobile and Web Applications"**. The research documents three critical discoveries:
 
